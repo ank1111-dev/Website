@@ -14,3 +14,7 @@ body {
     color: rgb(117, 232, 232);
 }
 
+.navbar {
+
+    border-radius: 35px !important;
+}
